@@ -1,0 +1,15 @@
+C:\Users\user\c-sharp-module\KirillLotin\bin\Debug\net8.0\KirillLotin.exe
+C:\Users\user\c-sharp-module\KirillLotin\bin\Debug\net8.0\KirillLotin.deps.json
+C:\Users\user\c-sharp-module\KirillLotin\bin\Debug\net8.0\KirillLotin.runtimeconfig.json
+C:\Users\user\c-sharp-module\KirillLotin\bin\Debug\net8.0\KirillLotin.dll
+C:\Users\user\c-sharp-module\KirillLotin\bin\Debug\net8.0\KirillLotin.pdb
+C:\Users\user\c-sharp-module\KirillLotin\obj\Debug\net8.0\KirillLotin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\c-sharp-module\KirillLotin\obj\Debug\net8.0\KirillLotin.AssemblyInfoInputs.cache
+C:\Users\user\c-sharp-module\KirillLotin\obj\Debug\net8.0\KirillLotin.AssemblyInfo.cs
+C:\Users\user\c-sharp-module\KirillLotin\obj\Debug\net8.0\KirillLotin.csproj.CoreCompileInputs.cache
+C:\Users\user\c-sharp-module\KirillLotin\obj\Debug\net8.0\KirillLotin.sourcelink.json
+C:\Users\user\c-sharp-module\KirillLotin\obj\Debug\net8.0\KirillLotin.dll
+C:\Users\user\c-sharp-module\KirillLotin\obj\Debug\net8.0\refint\KirillLotin.dll
+C:\Users\user\c-sharp-module\KirillLotin\obj\Debug\net8.0\KirillLotin.pdb
+C:\Users\user\c-sharp-module\KirillLotin\obj\Debug\net8.0\KirillLotin.genruntimeconfig.cache
+C:\Users\user\c-sharp-module\KirillLotin\obj\Debug\net8.0\ref\KirillLotin.dll
