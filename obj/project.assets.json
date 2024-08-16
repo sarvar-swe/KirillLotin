@@ -8,20 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sazod\\.nuget\\packages\\": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sazod\\dev\\dotnet\\KirillLotin\\KirillLotin.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\PROECTS\\proect3\\KirillLotin\\KirillLotin.csproj",
       "projectName": "KirillLotin",
-      "projectPath": "C:\\Users\\sazod\\dev\\dotnet\\KirillLotin\\KirillLotin.csproj",
-      "packagesPath": "C:\\Users\\sazod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sazod\\dev\\dotnet\\KirillLotin\\obj\\",
+      "projectPath": "C:\\Users\\hp\\PROECTS\\proect3\\KirillLotin\\KirillLotin.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\PROECTS\\proect3\\KirillLotin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sazod\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
