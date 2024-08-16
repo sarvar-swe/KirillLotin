@@ -8,26 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sazod\\.nuget\\packages\\": {}
+    "C:\\Users\\manzura\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sazod\\dev\\dotnet\\KirillLotin\\KirillLotin.csproj",
+      "projectUniqueName": "C:\\Users\\manzura\\Desktop\\KirillLotin\\KirillLotin.csproj",
       "projectName": "KirillLotin",
-      "projectPath": "C:\\Users\\sazod\\dev\\dotnet\\KirillLotin\\KirillLotin.csproj",
-      "packagesPath": "C:\\Users\\sazod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sazod\\dev\\dotnet\\KirillLotin\\obj\\",
+      "projectPath": "C:\\Users\\manzura\\Desktop\\KirillLotin\\KirillLotin.csproj",
+      "packagesPath": "C:\\Users\\manzura\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manzura\\Desktop\\KirillLotin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sazod\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\manzura\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesource": {}
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
