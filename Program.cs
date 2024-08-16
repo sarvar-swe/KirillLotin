@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿System.Console.WriteLine("Alifboni tanlang.");
+System.Console.WriteLine("1. Lotin");
+System.Console.WriteLine("2. Kirill");
+System.Console.WriteLine("3. Dasturdan chiqish.");
