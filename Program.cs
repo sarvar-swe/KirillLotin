@@ -1,7 +1,16 @@
-﻿class Program
+﻿using System.Globalization;
+using System.Text;
+class Program
 {
     static void Main()
     {
+
+        Console.OutputEncoding = Encoding.UTF8;
+        Console.InputEncoding = Encoding.UTF8;
+        CultureInfo culture = new CultureInfo("ru-RU");
+        Thread.CurrentThread.CurrentCulture = culture;
+        Thread.CurrentThread.CurrentUICulture = culture;
+
         Console.WriteLine("1. Kirill -> Lotin");
         Console.WriteLine("2. Lotin -> Kirill");
         Console.WriteLine("3. Dasturdan chiqish");
@@ -11,27 +20,20 @@
         if(menu == 1)
         {
             Console.Write("Enter the kirill word: ");
+            Kirill();
             
         }
         else if(menu == 2)
         {
             Console.Write("Enter the Lotin word: ");
-            Dictionary();
         }
     }
 
     static void Kirill()
     {
-        string word = Console.ReadLine() !;
-        string[] a = {word};
-
-    }
-
-    static void Dictionary()
-    {
-        Dictionary<string, string> kirillDictionary
+         Dictionary<string, string> kirillDictionary
         = new Dictionary<string, string>()
-        {
+    {
             {"А", "A"},
             {"Б", "B"},
             {"В", "V"},
@@ -97,9 +99,27 @@
             {"ь", ""}, 
             {"э", "e"}, 
             {"ю", "yu"}, 
-            {"я", "ya"}
-        };
+            {"я", "ya"},
+            {"\n", ""}
+    };
+        string word = Console.ReadLine()!;
         
+        word.Replace("\n", "");
+
+        string lotin = "";
+
+        for(int i = 0; i < word.Length; i++)
+        {
+            lotin += kirillDictionary[word[i].ToString()];
+        }
+
+        Console.WriteLine($"Lotin: {lotin}");
 
     }
+
+
+   
+        
+
+
 }
