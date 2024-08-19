@@ -1,7 +1,15 @@
-﻿class Program
+﻿using System;
+using System.Globalization;
+using System.Text;
+
+class Program
 {
     static void Main()
     {
+        Console.OutputEncoding = Encoding.UTF8;
+        CultureInfo culture = new CultureInfo("ru-RU");
+        Thread.CurrentThread.CurrentCulture = culture;
+        Thread.CurrentThread.CurrentCulture = culture;
         while (true)
         {
             Console.WriteLine("Menu tanlang:");
