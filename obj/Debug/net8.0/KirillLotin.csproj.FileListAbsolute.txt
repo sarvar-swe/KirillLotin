@@ -1,0 +1,15 @@
+C:\Users\sazod\dev\dotnet\KirillLotin\bin\Debug\net8.0\KirillLotin.exe
+C:\Users\sazod\dev\dotnet\KirillLotin\bin\Debug\net8.0\KirillLotin.deps.json
+C:\Users\sazod\dev\dotnet\KirillLotin\bin\Debug\net8.0\KirillLotin.runtimeconfig.json
+C:\Users\sazod\dev\dotnet\KirillLotin\bin\Debug\net8.0\KirillLotin.dll
+C:\Users\sazod\dev\dotnet\KirillLotin\bin\Debug\net8.0\KirillLotin.pdb
+C:\Users\sazod\dev\dotnet\KirillLotin\obj\Debug\net8.0\KirillLotin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sazod\dev\dotnet\KirillLotin\obj\Debug\net8.0\KirillLotin.AssemblyInfoInputs.cache
+C:\Users\sazod\dev\dotnet\KirillLotin\obj\Debug\net8.0\KirillLotin.AssemblyInfo.cs
+C:\Users\sazod\dev\dotnet\KirillLotin\obj\Debug\net8.0\KirillLotin.csproj.CoreCompileInputs.cache
+C:\Users\sazod\dev\dotnet\KirillLotin\obj\Debug\net8.0\KirillLotin.sourcelink.json
+C:\Users\sazod\dev\dotnet\KirillLotin\obj\Debug\net8.0\KirillLotin.dll
+C:\Users\sazod\dev\dotnet\KirillLotin\obj\Debug\net8.0\refint\KirillLotin.dll
+C:\Users\sazod\dev\dotnet\KirillLotin\obj\Debug\net8.0\KirillLotin.pdb
+C:\Users\sazod\dev\dotnet\KirillLotin\obj\Debug\net8.0\KirillLotin.genruntimeconfig.cache
+C:\Users\sazod\dev\dotnet\KirillLotin\obj\Debug\net8.0\ref\KirillLotin.dll
