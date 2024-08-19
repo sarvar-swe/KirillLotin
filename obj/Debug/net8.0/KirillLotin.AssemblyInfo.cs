@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KirillLotin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d49af47984cf9ab4f052da204fd0a8fd814e3c6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("KirillLotin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KirillLotin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
