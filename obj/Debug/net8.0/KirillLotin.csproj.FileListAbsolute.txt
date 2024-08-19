@@ -1,0 +1,15 @@
+C:\Users\manzura\Desktop\KirillLotin\obj\Debug\net8.0\KirillLotin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manzura\Desktop\KirillLotin\obj\Debug\net8.0\KirillLotin.AssemblyInfoInputs.cache
+C:\Users\manzura\Desktop\KirillLotin\obj\Debug\net8.0\KirillLotin.AssemblyInfo.cs
+C:\Users\manzura\Desktop\KirillLotin\obj\Debug\net8.0\KirillLotin.csproj.CoreCompileInputs.cache
+C:\Users\manzura\Desktop\KirillLotin\obj\Debug\net8.0\KirillLotin.sourcelink.json
+C:\Users\manzura\Desktop\KirillLotin\bin\Debug\net8.0\KirillLotin.exe
+C:\Users\manzura\Desktop\KirillLotin\bin\Debug\net8.0\KirillLotin.deps.json
+C:\Users\manzura\Desktop\KirillLotin\bin\Debug\net8.0\KirillLotin.runtimeconfig.json
+C:\Users\manzura\Desktop\KirillLotin\bin\Debug\net8.0\KirillLotin.dll
+C:\Users\manzura\Desktop\KirillLotin\bin\Debug\net8.0\KirillLotin.pdb
+C:\Users\manzura\Desktop\KirillLotin\obj\Debug\net8.0\KirillLotin.dll
+C:\Users\manzura\Desktop\KirillLotin\obj\Debug\net8.0\refint\KirillLotin.dll
+C:\Users\manzura\Desktop\KirillLotin\obj\Debug\net8.0\KirillLotin.pdb
+C:\Users\manzura\Desktop\KirillLotin\obj\Debug\net8.0\KirillLotin.genruntimeconfig.cache
+C:\Users\manzura\Desktop\KirillLotin\obj\Debug\net8.0\ref\KirillLotin.dll
